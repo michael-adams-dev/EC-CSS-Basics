@@ -1,0 +1,43 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: 900;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a {
+    margin: 0 1%;
+    font-size: 1.2rem;
+    color: royalblue;
+}
+
+.header {
+    width: 30%;
+    margin: 0 auto;
+}
+
+.content {
+    width: 50%;
+    margin: 15px auto;
+}
+
+.post {
+    font-size: 1.2rem;
+}
+
+.fas {
+    margin-left: 2%;
+}
+
+#date {
+    color: gray;
+}

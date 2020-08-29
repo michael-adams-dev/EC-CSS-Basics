@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: purple;
+    height: 100%;
+    width: 10%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    text-align: center;
+}
+
+.content {
+    width: 40%;
+    margin: 0 25% 0 35%;
+}
+
+.navbar a {
+    display: block;
+    font-size: 1.5rem;
+    padding: 10px 0;
+    color: salmon;
+}
+
+.navbar a:hover {
+    color: silver;
+}

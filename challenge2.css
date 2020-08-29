@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background: indianred;
+    padding-bottom: 30px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+
+.first-post {
+    margin-top: 50px;
+}
